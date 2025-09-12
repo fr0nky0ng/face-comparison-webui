@@ -1,5 +1,5 @@
 # face-comparison-webui
-a simple webui for face-comparison (https://github.com/m-lyon/face-comparison)
+A simple webui for face-comparison (https://github.com/m-lyon/face-comparison)
 
 ## Install
 
@@ -19,3 +19,7 @@ conda activate face-compare
 python webui.py
 ```
 
+
+## Reference
+
+https://github.com/m-lyon/face-comparison
