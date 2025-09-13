@@ -1,6 +1,8 @@
 # NOTE
 
-This is not accurate, I have written a new application based on insightface. So this repository is archived.
+This is not accurate, I have written a new application based on insightface(https://github.com/fr0nky0ng/face-comparison-insightface). 
+
+So this repository is archived.
 
 # face-comparison-webui
 A simple webui for face-comparison (https://github.com/m-lyon/face-comparison)
